@@ -80,13 +80,6 @@
 | ☕ **[DataTech](https://github.com/SPTECH-DataTech/DataTech)** | Plataforma de análise da produção de café, com Node.js e ETL em Java ([DataTechJava](https://github.com/SPTECH-DataTech/DataTechJava)) |
 | ✅ **[todolist-api-spring](https://github.com/samussouza/todolist-api-spring)** | API de gerenciamento de tarefas com Spring Boot |
 
-### 📊 GitHub
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=samussouza&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=E9D5FF&count_private=true&locale=pt-br" alt="Estatísticas do GitHub">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samussouza&layout=compact&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=E9D5FF&locale=pt-br" alt="Linguagens mais usadas">
-</p>
-
 ---
 
 <p align="center">
